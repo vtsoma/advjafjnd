@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapters/2._Your_personality.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapters/2._Your_personality.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapters/2._Your_personality.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapters/2._Your_personality.md"
+                "file": "README.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   "active": "3687cf75cc63850d",
   "lastOpenFiles": [
     "Chapters/1._Understanding_modern_teens.md",
-    "README.md",
     "Chapters/2._Your_personality.md",
+    "README.md",
     "Chapters/1..md",
     "Chapters/2..md",
     "Assets/dub.jpg",
